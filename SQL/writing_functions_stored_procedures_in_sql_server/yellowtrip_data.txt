@@ -1,0 +1,2 @@
+datasource: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+parquet_to_csv: https://coiled.io/blog/write-multiple-parquet-files-to-a-single-csv-using-python/
